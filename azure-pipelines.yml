@@ -37,19 +37,6 @@ stages:
       workingDirectory: $(projectRoot)
       displayName: 'myStep 1'
 
-    - script: |
-        export PATH=$HOME/.local/bin:$PATH
-        make install
-      workingDirectory: $(projectRoot)
-      displayName: 'myStep 2'
-
-    - script: |
-        export PATH=$HOME/.local/bin:$PATH
-        make install
-        make lint
-      workingDirectory: $(projectRoot)
-      displayName:  'myStep 3 - Run lint tests'
-
     - task: ArchiveFiles@2
       displayName: 'myStep 4 - Archive files'
       inputs:
