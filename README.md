@@ -4,7 +4,7 @@
 This project demoes building CI/CD pipelines with .
 A Machine Learning web application is built, test, and deployed using Github Actions and Azure pipelines.
 
-[Demo Video](https://www.canva.com/design/DAFytx-w-hQ/SsrjAnK4RIvfCbhqqDObqw/edit?utm_content=DAFytx-w-hQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Demo Video](https://youtu.be/IuQXT4iDAz8)
 
 ## Project Plan
 
@@ -82,6 +82,6 @@ Replace '< yourappname >' in the provided configuration and call locust:
 
 ## Demo 
 
-[Demo Video](https://www.canva.com/design/DAFytx-w-hQ/SsrjAnK4RIvfCbhqqDObqw/edit?utm_content=DAFytx-w-hQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Demo Video](https://youtu.be/IuQXT4iDAz8)
 
 
