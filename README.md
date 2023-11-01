@@ -4,15 +4,17 @@
 This project demoes building CI/CD pipelines with .
 A Machine Learning web application is built, test, and deployed using Github Actions and Azure pipelines.
 
+[Demo Video](https://www.canva.com/design/DAFytx-w-hQ/SsrjAnK4RIvfCbhqqDObqw/edit?utm_content=DAFytx-w-hQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Project Plan
-<TODO: Project Plan
 
-* Trello board - 
-The [yearly project plan]([../../raw/main/projectplan/project-plan_2021.xlsx](https://github.com/Spreeha/Building-a-CI-CD-Pipeline/blob/main/projectplan/project%20plan%202023.xlsx)) shows how important automation is in the project plan.
 
-The [quarterly project plan]([../../raw/main/projectplan/project-plan_2021_Q2.xlsx](https://github.com/Spreeha/Building-a-CI-CD-Pipeline/blob/main/projectplan/project%20plan%20Q2.xlsx)) shows the steps for building the CI-CD pipeline and other estimate details
+Trello board - 
+The [yearly project plan](https://github.com/Spreeha/Building-a-CI-CD-Pipeline/blob/main/projectplan/project%20plan%202023.xlsx) shows how important automation is in the project plan.
 
-The [Trello board](....) is then used for task planning and tracking.
+The [quarterly project plan](https://github.com/Spreeha/Building-a-CI-CD-Pipeline/blob/main/projectplan/project%20plan%20Q2.xlsx) shows the steps for building the CI-CD pipeline and other estimate details
+
+The [Trello board](https://trello.com/invite/b/kSTHkrAB/ATTId5d4bb3bc2c703a5e22446ac9c7819129517387B/agile-board-template-trello) is then used for task planning and tracking.
 
 ## Instructions
 
