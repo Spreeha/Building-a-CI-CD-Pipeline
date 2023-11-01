@@ -43,7 +43,7 @@ Test the webapp locally or on Azure Cloud Shell:
 
 Logs of your running webapp can be accessed via cloud shell as a stream:
 ```bash
-(.flask-sklearn) azureuser@Azure:~/testapp98$ az webapp log tail
+(.testapp98) azureuser@Azure:~/testapp98$ az webapp log tail
 ```
 ![Logs](https://github.com/Spreeha/Building-a-CI-CD-Pipeline/assets/36483814/cb113e88-2519-46bc-8385-c76564d37762)
 
